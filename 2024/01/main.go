@@ -81,5 +81,5 @@ func part2(listA, listB []int) {
 		sum = sum + multi
 	}
 	fmt.Println("Antwort für Teil 2 ist:", sum)
-	// ___ ist richtig!
+	// 22565391 ist richtig!
 }
